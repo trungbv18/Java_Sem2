@@ -1,0 +1,5 @@
+#moi dong 1 san pham
+#cac thong tin cua san pham thi se cach nhau boi dau phay: 
+dt,ip13,iphone13 promax,35000000
+dt,ip13,iphone13 promax,35000000
+dt,ss,ss13 promax,31000000
